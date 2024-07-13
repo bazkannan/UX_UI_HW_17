@@ -141,6 +141,8 @@ nav ul li a:hover {
   font-weight: lighter;
   transition: color 0.3s;
   color: #FFF500;
+  display: inline-block;
+  vertical-align: top; 
 }
 
 .navMenuItems:hover {
